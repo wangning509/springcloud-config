@@ -4,8 +4,8 @@ spring:
 
 spring:
   profiles: dev
-    application:
-      name: springcloud-config-dev
+  application:
+    name: springcloud-config-dev
 
 spring:
   profiles: test
